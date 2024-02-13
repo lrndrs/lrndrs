@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Laura Endres. I am PhD student in Climate Geology working with Stalagmites
-- 👀 I’m interested in R,python
-- 🌱 I’m currently learning to program Proxy System Models (PSM)
-- 💞️ I’m looking to collaborate on Proxy System Models (PSM)
+- 👋 Hi, I’m Laura. I am PhD student in Climate Geology at ETH Zurich working with Stalagmites and Climate models on abrupt past events.
+- 👀 I’m interested in R, Python
+- 🌱 I’m currently learning more about Python, HPC and the climate model HadCM3
+- 💞️ I’m looking to collaborate on Speleothems, Proxy System Models (PSM), Data model comparison for Proxy and Climate Model Data.
 
 
 <!---
